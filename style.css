@@ -40,3 +40,42 @@
     
     box-shadow: 5px 5px 10px solid lightgray ;
 }
+.colam{
+  height: 300px;
+  border: 10px  lightgray;
+  box-shadow: 10px 10px 10px lightgray;
+  margin-top: 150px;
+  margin-right: 20px;
+  margin-left: 30px;
+  text-align: center;
+  background-color: rgb(249, 250, 250);
+  border-radius: 10px 20px 10px 40px;
+}
+.bag{
+    padding-top: 100px;
+    padding-bottom: 20px ;
+}
+.col1{
+  
+    margin-top: 100px;
+}
+.raw{
+    height: 300px;
+    border: 10px  lightgray;
+    box-shadow: 10px 10px 10px lightgray;
+    text-align: center;
+    background-color: rgb(249, 250, 250);
+    border-radius: 20px 10px 40px 10px;
+}
+.sent{
+    padding-top: 60px;
+}
+.raw1{
+    height: 300px;
+    border: 10px  lightgray;
+    box-shadow: 10px 10px 10px lightgray;
+    text-align: center;
+    background-color: rgb(249, 250, 250);
+    border-radius: 20px 10px 40px 10px;
+    margin-top: 50px;
+}
